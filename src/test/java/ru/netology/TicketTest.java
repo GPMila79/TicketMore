@@ -48,7 +48,7 @@ public class TicketTest {
         Ticket ticket5 = new Ticket(5, "UFA", "SPB", 800, 222);
         Ticket ticket6 = new Ticket(6, "MSK", "SPB", 200, 130);
         Ticket ticket7 = new Ticket(7, "NEW", "LA", 300, 243);
-        Ticket ticket8 = new Ticket(8, "MSK", "SPB", 2500, 99);
+        Ticket ticket8 = new Ticket(8, "MSK", "SPB", 2600, 99);
         manager.add(ticket1);
         manager.add(ticket2);
         manager.add(ticket3);
